@@ -1,4 +1,4 @@
-It's a beginner friendly project to fetch data (age, gender and nationality) through APIs using a name.
+#It's a beginner friendly project to fetch data (age, gender and nationality) through APIs using a name.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
